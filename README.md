@@ -71,23 +71,15 @@ The repository includes selected project documentation and visual materials:
 * ERD
 * Project Plan
 
-## Screenshots
+## Project Materials
 
-### System Interfaces
+This repository includes selected project materials, including:
 
-Screenshots of the main system interfaces are available in:
-
-`/screenshots/interfaces/`
-
-### System Diagrams
-
-System diagrams and project planning materials are available in:
-
-`/screenshots/diagrams/`
-
-## Note
-
-This repository is a **portfolio presentation of the project**. Source code and confidential organizational information are not included due to project ownership and privacy considerations.
+* **System Interfaces** — screenshots of the main system interfaces and role-based dashboards.
+* **System Diagrams** — system workflow, use case diagram, and ERD.
+* **Project Plan** — the project work plan and timeline.
+* **Technical Documentation** — technical documentation covering the system requirements, design, development, testing, and deployment.
+* **Project Presentations** — presentations prepared for university evaluation and the training organization.
 
 ---
 
